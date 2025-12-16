@@ -4,7 +4,7 @@
 This project presents an interactive Excel dashboard designed to analyze sales performance across regions, categories, and time periods. The dashboard helps in understanding key business metrics and supports data-driven decision-making.
 
 ## Tools Used
-- Microsoft Excel / WPS Excel
+- WPS Excel
 - Pivot Tables and Pivot Charts
 - Excel formulas and calculations
 - Slicers for interactive filtering
