@@ -29,7 +29,7 @@ This project presents an interactive Excel dashboard designed to analyze sales p
 - Includes sales, profit, order, region, category, and sub-category data
 
 ## Dashboard Preview
-!(dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Key Learnings
 - Built an end-to-end Excel dashboard from raw data to insights
